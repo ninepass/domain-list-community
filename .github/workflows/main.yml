@@ -1,7 +1,5 @@
 name: Sync dlc.dat and data directory with v2fly
-on:
-  schedule:
-    - cron: "0 0 * * *"
+on: [push]
 jobs:
   sync:
     runs-on: ubuntu-latest
