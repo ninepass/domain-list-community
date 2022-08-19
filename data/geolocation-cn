@@ -1,5 +1,8 @@
 # List of all domains that have access point in China mainland
 
+# 123云盘
+123pan.com
+
 # Advertisment & Analytics
 include:jiguang
 include:umeng
@@ -102,8 +105,29 @@ include:nga
 include:stage1st
 include:zhihu
 
+# Fofa网站测绘
+fofa.info
+
+# itdog网站工具箱
+itdog.cn
+
+# 快对作业
+kuaiduizuoye.com
+
+# 论坛
+52pojie.cn # 吾爱破解
+klpbbs.com # 苦力怕论坛
+mcbbs.net # MCBBS论坛
+itsk.com # IT天空论坛
+
 # Logistics
 include:sf-express
+
+# MC百科
+mcmod.cn
+
+# 门户网站
+moulem.com
 
 # Media & News & Press
 include:category-media-cn
@@ -182,6 +206,15 @@ include:segmentfault
 include:tipdm
 include:xueyuanjun
 
+# 信息学
+hihocoder.com
+jisuanke.com
+luogu.com.cn
+oi-wiki.com
+openjudge.cn
+uoj.ac
+vijos.org
+
 # Tech companies & Orginations
 include:alibaba
 include:b3log
@@ -229,9 +262,6 @@ llsapp.com
 llscdn.com
 llsserver.com
 
-# 门户网站
-moulem.com
-
 # Aviation
 include:airchina # 中国国际航空
 include:hainanairlines # 海南航空
@@ -263,6 +293,9 @@ include:8btc
 include:jibencaozuo
 include:sinopec
 include:category-enterprise-query-platform-cn
+
+# 优启通官网
+upe.net
 
 suzuki-china.com # 铃木中国官网
 

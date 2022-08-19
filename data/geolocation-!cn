@@ -146,6 +146,8 @@ include:category-porn
 include:falungong
 
 # Services & Softwares
+include:category-browser-!cn
+
 include:accuweather
 include:adblock
 include:adblockplus
@@ -240,6 +242,9 @@ include:zeplin
 include:zoho
 include:zoom
 
+# Aurora Open Source Software (https://gitlab.com/AuroraOSS)
+auroraoss.com
+
 # Software development
 include:category-dev
 
@@ -265,6 +270,8 @@ include:translatewiki
 include:wikidot
 include:wikihow
 include:wikimedia
+
+touhouwiki.net
 
 # Others
 include:avaxhome

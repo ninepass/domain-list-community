@@ -45,6 +45,7 @@ include:ruby
 include:scala
 include:stackexchange
 include:strikingly
+include:tencent-dev
 include:termux
 include:thelinuxfoundation
 include:unity
@@ -75,6 +76,7 @@ ffmpeg.org
 freebsd.org
 gentoo.org
 getcomposer.org
+getzola.org
 git-scm.com
 gnu.org
 
@@ -119,6 +121,7 @@ raspbian.org
 rpmfusion.org
 scientificlinux.org
 scoop.sh
+shellcheck.net
 shields.io
 sqlite.org
 sublimetext.com
