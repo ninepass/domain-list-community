@@ -23,6 +23,7 @@ include:golang
 include:hashicorp
 include:haskell
 include:homebrew
+include:huawei-dev
 include:intel-dev
 include:java
 include:jetbrains
@@ -48,6 +49,7 @@ include:strikingly
 include:tencent-dev
 include:termux
 include:thelinuxfoundation
+include:topcoder
 include:unity
 include:v8
 include:vim

@@ -3,7 +3,7 @@
 # 123云盘
 123pan.com
 
-#一起作业
+# 一起作业
 17zuoye.cn
 17zuoye.net
 17zuoye.com
@@ -13,6 +13,7 @@ include:jiguang
 include:umeng
 
 # CDN companies & Services
+include:aws-cn
 include:baijiayun
 include:bootcdn
 include:bootcss
@@ -26,6 +27,7 @@ include:ucloud
 include:upai
 include:wangsu
 include:yunfanjiasu
+
 funcdn.com
 
 # Bank & Finance & Insurance & Securities
@@ -42,11 +44,11 @@ include:58tongcheng
 include:ctrip
 include:dangdang
 include:eleme
-include:ganji
 include:jd
 include:lianjia
 include:manmanbuy
 include:meituan
+include:miaomiaozhe
 include:mogujie
 include:pinduoduo
 include:smzdm
@@ -98,18 +100,23 @@ include:youku
 include:yy
 include:zhanqi
 
+wo1wan.com
+
 # Food & Drink
 include:heytea
 
 # Forums
 include:chiphell
-include:douban
 include:erji
 include:hacpai
 include:kechuang
 include:nga
 include:stage1st
-include:zhihu
+
+52pojie.cn # 吾爱破解
+itsk.com # IT天空论坛
+klpbbs.com # 苦力怕论坛
+mcbbs.net # MCBBS论坛
 
 # Fofa网站测绘
 fofa.info
@@ -119,12 +126,6 @@ itdog.cn
 
 # 快对作业
 kuaiduizuoye.com
-
-# 论坛
-52pojie.cn # 吾爱破解
-klpbbs.com # 苦力怕论坛
-mcbbs.net # MCBBS论坛
-itsk.com # IT天空论坛
 
 # Logistics
 include:sf-express
@@ -192,10 +193,14 @@ include:guokr
 include:hujiang
 include:ihuman
 include:koolearn
+include:shanbay
 include:wanfang
 include:xueersi
 include:yuanfudao
 include:zhihuishu
+
+# Social Media
+include:category-social-media-cn
 
 # Software development related
 include:coding
@@ -213,6 +218,8 @@ include:tipdm
 include:xueyuanjun
 
 # 信息学
+include:51nod
+
 acwing.com
 hihocoder.com
 jisuanke.com
@@ -243,6 +250,7 @@ include:xiaomi
 include:xunlei
 
 # Telecommunication
+include:chinabroadnet 
 include:chinamobile
 include:chinatelecom
 include:chinaunicom
@@ -479,7 +487,6 @@ bamenzhushou.com
 bangongziyuan.com
 baofeng.com
 baoxianshichang.com
-bcy.net
 bearychat.com
 beihaidc.com
 beijing-lipin.com
@@ -993,6 +1000,7 @@ newbandeng.com
 newyx.net
 noknok.cn
 nowcoder.com
+nowcoder.net
 nowscore.com
 nruan.com
 ntalker.com
