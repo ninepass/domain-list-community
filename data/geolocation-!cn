@@ -3,6 +3,9 @@
 # TLDs (Top Level Domains) used outside China mainland
 include:tld-!cn
 
+# Anime, Comics & Games
+include:category-acg
+
 # Advertisment & Analytics
 include:pubmatic
 include:taboola
@@ -250,6 +253,10 @@ include:zeplin
 include:zoho
 include:zoom
 
+# Online LaTeX Editor
+cloudlatex.io
+overleaf.com
+
 # Aurora Open Source Software (https://gitlab.com/AuroraOSS)
 auroraoss.com
 
@@ -279,6 +286,7 @@ include:wikidot
 include:wikihow
 include:wikimedia
 
+atwiki.jp
 touhouwiki.net
 
 # Others
